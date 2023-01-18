@@ -16,7 +16,3 @@
 ### * [Part2_Docker](Part2_Docker/QnA.md)
 ### * [Part6_MSA](Part6_MSA/QnA.md)
 
-## 강의 정정내용
-> 강의 정정내용은 확인되는대로 계속 업데이트 할 예정입니다.
-> (링크를 클릭하시면 정정된 내용에 대해 확인 하실 수 있습니다.)
-### * [Part4_Kubernetes](Part4_Kubernetes/Correction.md)
